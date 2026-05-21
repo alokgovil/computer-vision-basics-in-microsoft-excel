@@ -1,8 +1,8 @@
 # Computer Vision Basics in Microsoft Excel ![Creative Commons License CC-BY-NC-SA-4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
-By [Alok Govil](https://alokgovil.com), Principal Engineer, Amazon ([LinkedIn Profile](https://www.linkedin.com/in/alokgovil/))
+By [Alok Govil](https://alokgovil.com), Principal Engineer, Ex-Amazon ([LinkedIn Profile](https://www.linkedin.com/in/alokgovil/))
 
-Collaborator: [Venkataramanan Subramanian](https://www.linkedin.com/in/venkataramanansubramanian/), Principal Engineer, Amazon
+Collaborator: [Venkataramanan Subramanian](https://www.linkedin.com/in/venkataramanansubramanian/), Principal Engineer, Ex-Amazon
 
 Computer Vision is often seen by software developers and others as a hard field to get into.  In this article, we'll learn Computer Vision from basics using sample algorithms implemented within Microsoft Excel, using a series of one-liner Excel formulas.  We'll use a surprise trick that helps us demonstrate and visualize algorithms like Face Detection, Hough Transform, etc., within Excel, with no dependence on any script or a third-party plugin.
 
