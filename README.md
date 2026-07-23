@@ -217,6 +217,15 @@ For practical implementation, there are many books on OpenCV, a common Computer 
 
 [https://news.ycombinator.com/item?id=22357374](https://news.ycombinator.com/item?id=22357374)
 
+### Forks with significant additions
+
+Algorithm for finding threshold for binarization:
+https://github.com/teerthsharma/computer-vision-basics-in-microsoft-excel/tree/feat/cancellation-safe-topology
+
+## Acknowledgments
+
+Thanks [Md Abdullah](https://github.com/mdabdullahalaminkhan) for these [contributions](https://github.com/amzn/computer-vision-basics-in-microsoft-excel/pull/8).
+
 ## License Summary
 
 Copyright 2018-20 Amazon.com, Inc. or its affiliates. All Rights Reserved.  SPDX-License-Identifier:  CC-BY-NC-SA-4.0
