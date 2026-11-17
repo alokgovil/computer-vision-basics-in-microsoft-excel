@@ -141,19 +141,20 @@ In the example shown in the talk, even the weights of that single neuron were ha
 
 ### Q7:  How did you come up with the idea for using Microsoft Excel for this?
 
-About 1.5 years back, we had to give an introductory talk on Computer Vision to a wide audience within Amazon, many of whom would have been completely unfamiliar with the subject.  We thought about starting from the very basics by showing that an image is essentially a 2D array of numbers (for each color channel for color images) and thought about showing these using Excel.
+In the year 2018, we had to give an introductory talk on Computer Vision to a wide audience within Amazon, many of whom would have been completely unfamiliar with the subject.  We thought about starting from the very basics by showing that an image is essentially a 2D array of numbers (for each color channel for color images) and thought about showing these using Excel.
 
 "Hmm!  If the numbers are in Excel, I could do more with it" ... That was the "A-ha" moment.  :-)
 
 It took about seven hours to create the first fully functional version for that talk, which did not include Face Detection and Text recognition.  The latter took about eight more hours for the first version.
 
-We have since then discovered several related works that represent images in Excel using this technique:
+We have since then discovered several related works that represent images in Excel/Spreadsheets using this technique:
 
 * Images in Excel Spreadsheet (including color):  [Stand-up comedy routine about Spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I)
 * Ray-tracing in Excel:  [The latest thing to support ray tracing is Excel, apparently](https://www.pcgamer.com/the-latest-thing-to-support-ray-tracing-is-excel-apparently/)
 * 3D Engine in Excel:  [Real 3D Engine - in Excel!!](https://www.youtube.com/watch?v=bFOL9kantXA)
 * 3D Graphics in Excel:  [Microsoft Excel: Revolutionary 3D Game Engine?](https://www.gamasutra.com/view/feature/131968/microsoft_excel_revolutionary_3d_.php)
 * [Excelence by BraadWorsten Brigade](https://www.pouet.net/prod.php?which=53021)
+* Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets: [https://x.com/Google/status/2121004369617485896](https://x.com/Google/status/2121004369617485896) (Nov. 2026)
 
 Here are some more related works using Excel:
 
@@ -230,4 +231,6 @@ Thanks [Md Abdullah](https://github.com/mdabdullahalaminkhan) for these [contrib
 
 Copyright 2018-20 Amazon.com, Inc. or its affiliates. All Rights Reserved.  SPDX-License-Identifier:  CC-BY-NC-SA-4.0
 
-This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.  See the [LICENSE](LICENSE) file.  It cannot be used for commercial training or lectures.
+Copyright 2018 onwards, Alok Govil, for updates to the above.  SPDX-License-Identifier:  CC-BY-NC-SA-4.0
+
+This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.  See the [LICENSE](LICENSE) file.  It cannot be used for commercial training or lectures.
